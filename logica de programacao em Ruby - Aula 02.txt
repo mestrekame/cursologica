@@ -1,0 +1,44 @@
+Criamos:
+
+Github;
+Trello;
+
+Dois Servidores: 
+origin - Git Hub
+Deploy - BitBucket
+
+Electron -> Sistema de desenvolvimento de servidor em hltm e css.
+
+
+Sig.org -> Site que ensina a falar ingles
+
+Empresa Booking - Emppresa em amsterdan
+
+
+Como trabalhar o PowerShell:
+
+Criar uma pasta (qualquer nome)
+Cria um arquivo/programa com editor Sublime
+
+Comandos no PowerShell:
+git init
+git add *
+git commit -m ''texto'' -->
+git push origin master -->
+git clone caminho do repos pasta -->
+git pull origin master -->
+git checkout nome do ramo -->
+git merge nome do ramo -->
+ruby -v -> ver a versao
+git config user.nome -->
+git config --global user.name "washington" -->
+irb --> Interpretador do ruby
+
+Criar repositorio:
+git init
+git add *
+git commit -m ''texto''
+git remote add origin https://github.com/mestrekame/cursologica
+git push origin master
+
+

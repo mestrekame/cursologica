@@ -1,0 +1,30 @@
+variavel val=0
+
+funcao imprimir
+    impressora start
+end
+-------------------------------------------
+funcao exibirValor(valorAtual)
+    PainelExibir(valorAtual)
+end
+-------------------------------------------
+funcao novaSenha(Val)
+  ValorAtual=val+1
+      imprimir
+end
+
+-------------------------------------------
+funcao Proximo(val)
+   Se (val < ValorAtual
+       valor=valor+1
+       ExibirValor(valor)
+       Lembrar()
+  end
+end
+
+-------------------------------------------
+Funcao Lembrar()
+    tocar()
+end
+
+-------------------------------------------
